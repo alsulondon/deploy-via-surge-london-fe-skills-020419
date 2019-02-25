@@ -6,7 +6,6 @@ Deploying your web site "to the internet" can be really challenging. You might
 need to buy a plan, configure a software program, learn more Unix commands,
 learn to compress your web site, etc... It's an extra bit of work that, while
 important, is not really the heart of learning to write HTML.
-
 In order to keep your eyes on skills of writing HTML and CSS and _not_ on the
 skills of "managing web site deployments," we're going to teach you to use a
 cool new service called "[surge.sh][surgesh]." Surge provides a simple program
